@@ -11,3 +11,11 @@ Scope
 </h2>
 <p> Currently this Project works for 1 group with a number of teams. It can be scaled up to include more relatively easily due to EntityFramework Core which handles Database Migrations. However, I intentionally limited the scope due to time constraints I had. </p>
 
+
+<h2> How to Run </h2>
+
+<p>
+    1) Use npm run dev on the React Side, make sure Vite it set up <br/>
+    2) Run dotnet run on the TriviaAPI proj
+</p>
+
